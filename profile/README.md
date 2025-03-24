@@ -16,7 +16,7 @@ Mision
 
 Vision
 
-Meet the team:
+### Meet the team:
 - https://github.com/renzaspiras
 - https://github.com/JCFcodex
 - https://github.com/AisuCodex
