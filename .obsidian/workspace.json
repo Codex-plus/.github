@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "78d235cf8c6f1dc2",
+        "id": "475b0003c4e1033a",
         "type": "tabs",
         "children": [
           {
-            "id": "3faeca9485054ae3",
+            "id": "a07fe6b8acd23f55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "fsd.canvas",
+                "viewState": {
+                  "x": -525.6774293014644,
+                  "y": -929.7403715823482,
+                  "zoom": 0.20000000000000018
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "fsd"
             }
           }
         ]
@@ -91,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "profile/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -109,11 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "profile/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -137,12 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "profile/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -177,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +200,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3481d211d9f44a",
+  "active": "a07fe6b8acd23f55",
   "lastOpenFiles": [
     "profile/README.md",
+    "fsd.canvas",
     "Docs",
     "README.md"
   ]
