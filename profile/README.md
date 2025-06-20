@@ -3,7 +3,7 @@
 We leverage AI to enhance and create new technology.
 
 Technological Stack:
-- SuperBase
+- SupaBase
 	- PosgreSQL Base
 - OpenAPI Swagger
 	- C# ASP
